@@ -1,0 +1,10 @@
+List<string> groceryItems = new List<string>
+        {
+            "Milk",
+            "Bread",
+            "Eggs",
+            "Rice",
+            "Apples"
+        };
+
+        
